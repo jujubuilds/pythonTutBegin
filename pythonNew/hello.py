@@ -1,8 +1,5 @@
-global_var = 69
-
-def my_function(): 
-    print("Aarav the goat")
-    print(global_var)#global var can be used anywhere 
-
-
+def my_function() :
+    global integer
+    integer = 6
 my_function()
+print(integer)
