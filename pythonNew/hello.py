@@ -1,5 +1,3 @@
-def my_function() :
-    global integer
-    integer = 6
-my_function()
-print(integer)
+somelit = ['hi', 'hello', 'bye']
+x, y, z = somelit
+print(x)
