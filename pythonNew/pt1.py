@@ -22,7 +22,10 @@ x = "Aarav"
 y = 10
 z = 10.0
 print(x, y, z) #In this technique I will be able to print even though they are of different type
-print(x + y + z) #this will not work 
+#print(x + y + z) #this will not work 
 
+someList = ['x', 'y', 'd']
+d, b, a = someList
+print(a)
 
 
